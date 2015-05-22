@@ -8,6 +8,8 @@ Manual installation: Download the <a href="https://github.com/MFernstrom/OpenBD-
 
 Drop the .exe and config.ini wherever you want (Keep the .ini and .exe in the same folder), add the .exe to your PATH and edit the config.ini file to point to your webserver.
 
+Installer: An installer is in the works and will be available when it's ready.
+
 --
 ### Default settings
 
